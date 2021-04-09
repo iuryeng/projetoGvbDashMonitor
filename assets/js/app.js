@@ -3,10 +3,15 @@
 
 const JSON_DATA = "https://api.brasil.io/v1/dataset/covid19/caso/data/?format=json&is_last=True&state=PB" // todos os casos da Paraiba
 const RECENTE_BRASIL = "https://api.brasil.io/v1/dataset/covid19/caso/data/?format=json&is_last=True&state" // os casos mais recentes
+
+const JSON_BOLETIM_PB = "https://api.brasil.io/v1/dataset/covid19/boletim/data?state=PB" // boletins registrados da Paraiba
+
+
 const DASH_CASOS = document.getElementById("casos-confirmados");
 const DASH_MORTES = document.getElementById("mortes");
 const DASH_TAXA_MORTALIDADE = document.getElementById("taxa-mortalidade");
 const DASH_CASOS_100K = document.getElementById("casos-por-100k");
+
 const DASH_DATA = document.getElementById("data");
 const DASH_COD_IBGE =  document.getElementById("cod-ibge");
 const DASH_POPULACAO = document.getElementById("populacao");
@@ -42,25 +47,6 @@ const DEF_API =  { // definicoes da api
 
 
 
-
-function newCasos(){
-    fetch(JSON_DATA, DEF_API ).then(response => response.json().then(data => { 
-     
-
-  inforDate = data;  
- 
-    
-      
-  }))
-  .catch(err => {
-      console.log(err);
-  });
-
-  }
-
-
-
-
 function getDate(){
     fetch(JSON_DATA, DEF_API).then(response => response.json().then(data => { 
 	   
@@ -91,35 +77,35 @@ function getDate(){
 
 
 $( document ).ready(function() {
-    fetch(RECENTE_BRASIL, DEF_API).then(response => response.json().then(data => { 
-     
+    fetch(RECENTE_BRASIL, DEF_API).then(response => response.json().then(data => {     
 
     var obj = data.results;
     Object.keys(obj).forEach((key) => {
     let valorPB;
+      
       if(obj[key]["state"] == "PB"){
-      valor = obj[key];
-      estado = valor["state"];
-      dataAtualizacaoPb = valor["date"];
-      codigoIbgePb = valor["city_ibge_code"];
-      confirmadosPb = valor["confirmed"];
-      confirmadosPor100kPb = valor["confirmed_per_100k_inhabitants"];
-      taxaMortalidadePb = valor["death_rate"];
-      mortesPb = valor["deaths"];
-      populacaoEstimadaPb = valor["estimated_population_2019"];
-       DASH_CASOS.innerHTML = confirmadosPb;
-       DASH_MORTES.innerHTML = mortesPb;
-       DASH_DATA.innerHTML = dataAtualizacaoPb;
-       DASH_TAXA_MORTALIDADE.innerHTML = taxaMortalidadePb;
-       DASH_CASOS_100K.innerHTML = confirmadosPor100kPb;
+        valor = obj[key];
+        estado = valor["state"];
+        dataAtualizacaoPb = valor["date"];
+        codigoIbgePb = valor["city_ibge_code"];
+        confirmadosPb = valor["confirmed"];
+        confirmadosPor100kPb = valor["confirmed_per_100k_inhabitants"];
+        taxaMortalidadePb = valor["death_rate"];
+        mortesPb = valor["deaths"];
+        populacaoEstimadaPb = valor["estimated_population_2019"];
+      
+
+        DASH_CASOS.innerHTML = confirmadosPb;
+        DASH_MORTES.innerHTML = mortesPb;
+        DASH_DATA.innerHTML = dataAtualizacaoPb;
+        DASH_TAXA_MORTALIDADE.innerHTML = taxaMortalidadePb;
+        DASH_CASOS_100K.innerHTML = confirmadosPor100kPb;
        //DASH_ESTADO.innerHTML = estado;
-       DASH_CIDADES_AFETADAS.innerHTML = numCidadeComCasos;
+        DASH_CIDADES_AFETADAS.innerHTML = numCidadeComCasos;
        //DASH_POPULACAO.innerHTML = populacaoEstimadaPb;
        //DASH_COD_IBGE.innerHTML = codigoIbgePb;
-       DASH_NUM_CIDADE_COM_MORTES.innerHTML = numCidadeComMortes;
-       
+       DASH_NUM_CIDADE_COM_MORTES.innerHTML = numCidadeComMortes;       
       }
-
 
   });
 
@@ -131,8 +117,12 @@ $( document ).ready(function() {
 
   });
 
+
+
+
+
 function getDateBoletim(){
-    fetch(JSON_BOLETIM_PB).then(response => response.json().then(data => {   
+    fetch(JSON_BOLETIM_PB, DEF_API).then(response => response.json().then(data => {   
 	
   inforDateBoletim = data;
 

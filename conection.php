@@ -7,7 +7,6 @@ $database = "gvb_dash_covid"; // nome do banco
 
 $connect = mysqli_connect($host, $user, $password, $database);
 //echo "conexao estabelecida com sucesso";
-// Checking Connection
 if (mysqli_connect_errno()) {
     echo "falha ao conecetar com o  MySQL: " . mysqli_connect_error();
 }

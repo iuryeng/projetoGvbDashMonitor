@@ -22,6 +22,7 @@ if(!$_SESSION['email']){
   <header class="navbar navbar-header navbar-header-fixed">      
       <div class="navbar-brand">
         Desafio de Programação - Vaga Full Stack Jr.
+     
        <img  src="assets/img/header_logo2.png" alt="" style="height: 50px; width: 160px">
       </div>      
     </div>  
@@ -38,6 +39,7 @@ if(!$_SESSION['email']){
               </ol>
             </nav>
             <h4 class="mg-b-0 tx-spacing--1">Bem Vindo ao Dashboard Paraíba</h4>
+               <a href="logout.php">logout</a>
             <p class="tx-11 tx-color-03 mg-b-0">Atualizado em: <span id ="data" class="tx-medium tx-success"></span></p>
              <p class="tx-11 tx-color-03 mg-b-0"><span>Dados dos Boletins Epidemiológicos da Paraíba, via projeto Brasil.IO</span></p>
           </div>          
@@ -146,7 +148,7 @@ if(!$_SESSION['email']){
                     <thead>
                       <tr role="row">
                         
-                        <th >Data:</th>                                      
+                        <th >Data:</th>                                     
                         <th >URL:</th>  
                         <th >Observação:</th>                                        
                        
@@ -157,13 +159,12 @@ if(!$_SESSION['email']){
                     </thead>                   
                   </table>
 
-                </div><!-- table-responsive -->
+                </div>
               </div>
-            </div><!-- card -->           
-          </div><!-- col -->
-     
-        </div><!-- row -->
-      </div><!-- container -->
+            </div>          
+          </div>     
+        </div>
+      </div>
     </div>
 
     <footer class="footer">
@@ -175,11 +176,7 @@ if(!$_SESSION['email']){
     </footer>
 
     <script src="assets/js/app.js"></script>
-    <script src="assets/lib/jquery/jquery.min.js"></script>
-    <script src="assets/lib/datatables.net/js/jquery.dataTables.min.js"></script>
-    <script src="assets/lib/datatables.net-dt/js/dataTables.dataTables.min.js"></script>
-    <script src="assets/lib/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
-    <script src="assets/lib/datatables.net-responsive-dt/js/responsive.dataTables.min.js"></script>    
+   
   
 
 <script type="text/javascript">
