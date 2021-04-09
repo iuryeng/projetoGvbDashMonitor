@@ -1,0 +1,24 @@
+.map-background{
+  fill: white;
+    border:solid black;
+}
+
+.map-color {
+  
+  fill: whitesmoke;
+  stroke: silver;
+
+
+}
+
+#card-legend{
+  
+  text-align: left;
+  font-size: 14px;
+  padding: 10px;
+  background-color: #f4f5f8 ;
+  color:black;
+  border: solid 1px black;
+  width: auto;
+  opacity: 0; 
+}

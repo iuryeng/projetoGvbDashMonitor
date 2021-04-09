@@ -1,0 +1,791 @@
+{
+ 
+  "data": [
+    {
+      "date": "2020-07-18",
+      "notes": "Dados totais coletados da Secretaria Estadual de Saúde",
+      "state": "PB",
+      "url": "https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv"
+    },
+    {
+      "date": "2020-07-17",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-17-07-2020"
+    },
+    {
+      "date": "2020-07-16",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-16-07-2020"
+    },
+    {
+      "date": "2020-07-15",
+      "notes": null,
+      "state": "PB",
+      "url": "https://superset.plataformatarget.com.br/superset/dashboard/55/"
+    },
+    {
+      "date": "2020-07-14",
+      "notes": "O boletim originalmente dizia que o número de casos em Mari era 537",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-14-07-2020"
+    },
+    {
+      "date": "2020-07-13",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-13-07-2020"
+    },
+    {
+      "date": "2020-07-12",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-12-07-2020"
+    },
+    {
+      "date": "2020-07-11",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-11-07-2020"
+    },
+    {
+      "date": "2020-07-10",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-10-07-2020"
+    },
+    {
+      "date": "2020-07-09",
+      "notes": null,
+      "state": "PB",
+      "url": "https://superset.plataformatarget.com.br/superset/dashboard/55/"
+    },
+    {
+      "date": "2020-07-08",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-08-07-2020"
+    },
+    {
+      "date": "2020-07-07",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-07-07-2020"
+    },
+    {
+      "date": "2020-07-06",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-06-07-2020"
+    },
+    {
+      "date": "2020-07-05",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-05-07-2020"
+    },
+    {
+      "date": "2020-07-04",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-04-07-2020"
+    },
+    {
+      "date": "2020-07-03",
+      "notes": null,
+      "state": "PB",
+      "url": "https://superset.plataformatarget.com.br/superset/dashboard/55/"
+    },
+    {
+      "date": "2020-07-02",
+      "notes": null,
+      "state": "PB",
+      "url": "https://superset.plataformatarget.com.br/superset/dashboard/55/"
+    },
+    {
+      "date": "2020-07-01",
+      "notes": "Não saiu boletim na sala de imprensa. usamos dados do painel.",
+      "state": "PB",
+      "url": "https://superset.plataformatarget.com.br/superset/dashboard/55/"
+    },
+    {
+      "date": "2020-06-30",
+      "notes": "Havia uma divergência entre os dados da sala de imprensa e do painel. De acordo com a sala de imprensa Cajazeiras tinha 17 óbitos e Campina Grande 114. De acordo com o painel Cajazeiras tinha 16 óbitos e Campina Grande 115. Ficamos com os dados do painel.",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-06-2020-1"
+    },
+    {
+      "date": "2020-06-29",
+      "notes": null,
+      "state": "PB",
+      "url": "https://superset.plataformatarget.com.br/superset/dashboard/55/"
+    },
+    {
+      "date": "2020-06-28",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-28-06-2020"
+    },
+    {
+      "date": "2020-06-27",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-06-2020"
+    },
+    {
+      "date": "2020-06-26",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-06-2020"
+    },
+    {
+      "date": "2020-06-25",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-06-2020"
+    },
+    {
+      "date": "2020-06-24",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-06-2020"
+    },
+    {
+      "date": "2020-06-23",
+      "notes": "Havia uma divergência entre o boletim e o painel quanto ao número de óbitos de Guarabira e João Pessoa. A secretaria disse que o painel é o correto.",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-06-2020-2"
+    },
+    {
+      "date": "2020-06-22",
+      "notes": "As divergências das cidades de Junco do Seridó, Pedra Lavrada e São José dos Ramos foram retificadas com uma planilha enviada diretamente pra Luisa.",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-22-06-2020"
+    },
+    {
+      "date": "2020-06-21",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-21-06-2020"
+    },
+    {
+      "date": "2020-06-20",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-20-06-2020"
+    },
+    {
+      "date": "2020-06-19",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-19-06-2020"
+    },
+    {
+      "date": "2020-06-18",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-18-06-2020-1"
+    },
+    {
+      "date": "2020-06-17",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-17-06-2020"
+    },
+    {
+      "date": "2020-06-16",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-16-06-2020"
+    },
+    {
+      "date": "2020-06-15",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-15-06-2020"
+    },
+    {
+      "date": "2020-06-14",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-14-06-202"
+    },
+    {
+      "date": "2020-06-13",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-13-06-202"
+    },
+    {
+      "date": "2020-06-12",
+      "notes": "Havia uma divergência entre o boletim e o painel quanto ao número de óbitos de Mari e João Pessoa. A secretaria disse que o painel é o correto.",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-12-06-202-1"
+    },
+    {
+      "date": "2020-06-11",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-11-06-202-3"
+    },
+    {
+      "date": "2020-06-10",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-10-06-202"
+    },
+    {
+      "date": "2020-06-09",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-09-06-202-1"
+    },
+    {
+      "date": "2020-06-08",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-08-06-202"
+    },
+    {
+      "date": "2020-06-07",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-07-06-202"
+    },
+    {
+      "date": "2020-06-06",
+      "notes": "Dados totais coletados da Secretaria Estadual de Saúde",
+      "state": "PB",
+      "url": "https://docs.google.com/spreadsheets/d/17mmfgPAcVCeHW3548BlFtuurAvF3jeffRVO1NW7rVgQ/export?format=csv"
+    },
+    {
+      "date": "2020-06-06",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-06-06-202"
+    },
+    {
+      "date": "2020-06-05",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-05-06-202"
+    },
+    {
+      "date": "2020-06-04",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-04-06-202-4"
+    },
+    {
+      "date": "2020-06-03",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-06-2020"
+    },
+    {
+      "date": "2020-06-03",
+      "notes": null,
+      "state": "PB",
+      "url": "https://superset.plataformatarget.com.br/superset/dashboard/55/"
+    },
+    {
+      "date": "2020-06-02",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-02-06-2020"
+    },
+    {
+      "date": "2020-06-01",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-01-06-2020"
+    },
+    {
+      "date": "2020-05-31",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-31-05-2020"
+    },
+    {
+      "date": "2020-05-30",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-05-2020"
+    },
+    {
+      "date": "2020-05-29",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-29-05-2020"
+    },
+    {
+      "date": "2020-05-28",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/arquivos/atualizacao-covid-19-28-05-2020"
+    },
+    {
+      "date": "2020-05-27",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-05-2020"
+    },
+    {
+      "date": "2020-05-26",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-05-2020"
+    },
+    {
+      "date": "2020-05-25",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-05-2020"
+    },
+    {
+      "date": "2020-05-24",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-05-2020"
+    },
+    {
+      "date": "2020-05-23",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-05"
+    },
+    {
+      "date": "2020-05-22",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-22-05"
+    },
+    {
+      "date": "2020-05-21",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-21-05-4"
+    },
+    {
+      "date": "2020-05-20",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-20-05"
+    },
+    {
+      "date": "2020-05-19",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-19-05"
+    },
+    {
+      "date": "2020-05-18",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-18-05"
+    },
+    {
+      "date": "2020-05-17",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-17-05-1"
+    },
+    {
+      "date": "2020-05-16",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-16-05"
+    },
+    {
+      "date": "2020-05-15",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-15-05"
+    },
+    {
+      "date": "2020-05-14",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-14-05"
+    },
+    {
+      "date": "2020-05-13",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-13-05"
+    },
+    {
+      "date": "2020-05-12",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-12-05"
+    },
+    {
+      "date": "2020-05-11",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-11-05"
+    },
+    {
+      "date": "2020-05-10",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-10-05"
+    },
+    {
+      "date": "2020-05-09",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-09-05-2"
+    },
+    {
+      "date": "2020-05-08",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-08-05"
+    },
+    {
+      "date": "2020-05-07",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-07-05-1"
+    },
+    {
+      "date": "2020-05-06",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-06-05"
+    },
+    {
+      "date": "2020-05-05",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-05-05"
+    },
+    {
+      "date": "2020-05-04",
+      "notes": "Apesar do boletim mostrar apenas um caso pra Princesa Isabel, entramos em contato com a secretaria e nos disseram que eram dois casos.",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-04-05"
+    },
+    {
+      "date": "2020-05-03",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-05"
+    },
+    {
+      "date": "2020-05-02",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-02-05"
+    },
+    {
+      "date": "2020-05-01",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-01-05"
+    },
+    {
+      "date": "2020-04-30",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-04"
+    },
+    {
+      "date": "2020-04-29",
+      "notes": "Catingueira diminuiu um caso.",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-29-04"
+    },
+    {
+      "date": "2020-04-28",
+      "notes": "Houve uma duplicidade em Brejo do Cruz. Ele permanece com 1 caso e 1 morte e por isso o total de casos é de 698 (e não 699) e de mortes é de 57 (e não 58)",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-28-04"
+    },
+    {
+      "date": "2020-04-27",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-04"
+    },
+    {
+      "date": "2020-04-26",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-04"
+    },
+    {
+      "date": "2020-04-25",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-04"
+    },
+    {
+      "date": "2020-04-24",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-04"
+    },
+    {
+      "date": "2020-04-23",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-04"
+    },
+    {
+      "date": "2020-04-22",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-22-04"
+    },
+    {
+      "date": "2020-04-21",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-21-04"
+    },
+    {
+      "date": "2020-04-20",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-20-04-17h"
+    },
+    {
+      "date": "2020-04-19",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-19-04-17h"
+    },
+    {
+      "date": "2020-04-18",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-18-04-17h"
+    },
+    {
+      "date": "2020-04-17",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-17-04-17h"
+    },
+    {
+      "date": "2020-04-16",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-16-04-17h00"
+    },
+    {
+      "date": "2020-04-15",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-15-04-17h00"
+    },
+    {
+      "date": "2020-04-14",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-14-04-16h30"
+    },
+    {
+      "date": "2020-04-13",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-13-04-19h"
+    },
+    {
+      "date": "2020-04-12",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-12-04-17h"
+    },
+    {
+      "date": "2020-04-11",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-11-04-17h"
+    },
+    {
+      "date": "2020-04-10",
+      "notes": "Bayeux foi zerado, porque segundo a secretaria descobriu-se que o caso de lá era residente em Santa Rita. ",
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-10-04-17h"
+    },
+    {
+      "date": "2020-04-09",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-09-04-19h"
+    },
+    {
+      "date": "2020-04-08",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-08-04-17h30"
+    },
+    {
+      "date": "2020-04-07",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-07-04-17h30"
+    },
+    {
+      "date": "2020-04-06",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-06-04-17h"
+    },
+    {
+      "date": "2020-04-05",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-05-04-17h"
+    },
+    {
+      "date": "2020-04-04",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-04-20h-1"
+    },
+    {
+      "date": "2020-04-03",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-04-13h40"
+    },
+    {
+      "date": "2020-04-03",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-04-20h"
+    },
+    {
+      "date": "2020-04-02",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-02-04-18h"
+    },
+    {
+      "date": "2020-04-02",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-02-04-12h"
+    },
+    {
+      "date": "2020-04-01",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-01-04-18h"
+    },
+    {
+      "date": "2020-04-01",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-01-04-10h"
+    },
+    {
+      "date": "2020-03-31",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-31-03-17h"
+    },
+    {
+      "date": "2020-03-30",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-03-17h"
+    },
+    {
+      "date": "2020-03-30",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-03-10h"
+    },
+    {
+      "date": "2020-03-28",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-28-03-09h30"
+    },
+    {
+      "date": "2020-03-27",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-03-10h"
+    },
+    {
+      "date": "2020-03-27",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-03-17h46"
+    },
+    {
+      "date": "2020-03-26",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-03-17h"
+    },
+    {
+      "date": "2020-03-26",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-03-7h30"
+    },
+    {
+      "date": "2020-03-25",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-03-18h"
+    },
+    {
+      "date": "2020-03-24",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-10h"
+    },
+    {
+      "date": "2020-03-24",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-20h35"
+    },
+    {
+      "date": "2020-03-24",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-18h"
+    },
+    {
+      "date": "2020-03-23",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-03-20h"
+    },
+    {
+      "date": "2020-03-23",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-03-07h"
+    },
+    {
+      "date": "2020-03-22",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-22-03-20h"
+    },
+    {
+      "date": "2020-03-18",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/noticias/paraiba-confirma-primeiro-caso-de-coronavirus"
+    },
+    {
+      "date": "2020-03-16",
+      "notes": null,
+      "state": "PB",
+      "url": "https://paraiba.pb.gov.br/diretas/saude/coronavirus/arquivos/informe-epidemiologico-01-coe-estadual_final.pdf/view"
+    }
+  ]
+}
